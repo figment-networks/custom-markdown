@@ -1,7 +1,7 @@
 {
   "name": "@figment-networks/custom-markdown",
   "author": "Bartosz Hejman",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "sideEffects": false,
   "main": "dist/index.js",
@@ -11,8 +11,7 @@
     "src"
   ],
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/",
-    "access": "public"
+    "registry": "https://npm.pkg.github.com/figment-networks"
   },
   "repository": {
     "type": "git",
